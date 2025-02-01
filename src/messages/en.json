@@ -1,0 +1,13 @@
+{
+    "nav": {
+      "support": "SUPPORT",
+      "computers": "COMPUTERS",
+      "peripherals": "PERIPHERALS",
+      "help": "HELP",
+      "about": "ABOUT"
+    },
+    "home": {
+      "title": "Gaming PC Assembly and Customization",
+      "subtitle": "We build computers according to your budget and needs"
+    }
+  }
