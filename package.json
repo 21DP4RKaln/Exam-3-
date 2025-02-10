@@ -9,6 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "rollup": "^4.34.6",
     "@prisma/client": "^6.3.1",
     "@tailwindcss/vite": "^4.0.5",
     "bcryptjs": "^2.4.3",
