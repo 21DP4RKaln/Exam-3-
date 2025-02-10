@@ -3,6 +3,7 @@ frontend:
   phases:
     preBuild:
       commands:
+        - nvm install 18.19.0
         - nvm use 18.19.0
         - npm ci
     build:
