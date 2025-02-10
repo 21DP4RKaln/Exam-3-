@@ -9,6 +9,9 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@swc/helpers": "0.5.5",
+    "styled-jsx": "5.1.1",
+    "scheduler": "0.23.2",
     "execa": "^9.0.0",
     "esbuild": "^0.24.2",
     "@prisma/client": "^6.3.1",
