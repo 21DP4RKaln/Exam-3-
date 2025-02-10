@@ -9,9 +9,9 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "rollup": "^4.34.6",
     "@prisma/client": "^6.3.1",
     "@tailwindcss/vite": "^4.0.5",
+    "aws-amplify": "^6.12.3",
     "bcryptjs": "^2.4.3",
     "jsonwebtoken": "^9.0.2",
     "lucide-react": "^0.475.0",
@@ -19,20 +19,28 @@
     "next": "15.1.6",
     "next-intl": "^3.26.3",
     "react": "^19.0.0",
-    "react-dom": "^19.0.0"
+    "react-dom": "^19.0.0",
+    "rollup": "^4.34.6"
   },
   "devDependencies": {
+    "@aws-amplify/backend": "^1.14.0",
+    "@aws-amplify/backend-cli": "^1.4.9",
     "@eslint/eslintrc": "^3",
     "@types/bcryptjs": "^2.4.6",
     "@types/jsonwebtoken": "^9.0.8",
     "@types/node": "^20.17.17",
     "@types/react": "^19.0.8",
     "@types/react-dom": "^19",
+    "aws-cdk": "^2.178.1",
+    "aws-cdk-lib": "^2.178.1",
+    "constructs": "^10.4.2",
+    "esbuild": "^0.25.0",
     "eslint": "^9",
     "eslint-config-next": "15.1.6",
     "postcss": "^8",
     "prisma": "^6.3.1",
     "tailwindcss": "^3.4.17",
-    "typescript": "^5"
+    "tsx": "^4.19.2",
+    "typescript": "^5.7.3"
   }
 }
