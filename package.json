@@ -9,6 +9,8 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "vite": "6.1.0",
+    "@next/env": "14.2.23",
     "@swc/helpers": "0.5.5",
     "styled-jsx": "5.1.1",
     "scheduler": "0.23.2",
@@ -21,10 +23,10 @@
     "jsonwebtoken": "^9.0.2",
     "lucide-react": "^0.475.0",
     "mysql2": "^3.12.0",
-    "next": "^14.0.0",
+    "next": "14.2.23",
     "next-intl": "^3.26.3",
-    "react": "^18.2.0",
-    "react-dom": "^18.2.0",
+    "react": "18.3.1",
+    "react-dom": "18.3.1",
     "rollup": "^4.34.6"
   },
   "devDependencies": {
